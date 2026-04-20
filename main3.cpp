@@ -13,6 +13,5 @@ int main(){
 
     std::cout<<tamanho<<std::endl;
 
-
     return 0;
 }
