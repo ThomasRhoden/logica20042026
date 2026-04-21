@@ -7,7 +7,7 @@ int main(){
     while(contagem > 0){
         std::cout<<contagem<<std::endl;
         contagem--;
-    }
+        }
 
     std::cout<<"Feliz ano novo!!"<<std::endl;
 
